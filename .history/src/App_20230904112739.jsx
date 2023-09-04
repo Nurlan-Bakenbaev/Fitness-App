@@ -1,5 +1,5 @@
-import Navbar from './components/pages/Navbar'
-import React from 'react';
+
+
 import './App.css'
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-     <Navbar/>
+     <h1>F</h1>
     </>
   )
 }

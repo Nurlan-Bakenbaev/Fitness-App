@@ -1,5 +1,5 @@
-import Navbar from './components/pages/Navbar'
-import React from 'react';
+import Nav
+
 import './App.css'
 
 function App() {
